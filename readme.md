@@ -27,7 +27,7 @@
 	
 给脚本加上可执行权限
 
-	chmod +x /root/AutoBackupToFtp.sh
+	chmod +x /root/AutoBak.sh
 	
 cron添加自动运行
 
